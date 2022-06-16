@@ -1,0 +1,158 @@
+,matchId,contestantId,periodId,timeMin,timeMinSec,timestamp,type,decision,outcome,playerId
+0,16ziqpcwrfxykpgdo1cz3oj6c,4y5xl8r1nkg1n9hnjzo53v8xk,2,60,59:10,2020-12-13T00:43:48Z,Goal not awarded,Cancelled,Goal,5io2106rxpshzsc39qigm1nth
+1,e9hmyaml8l8lvehcm4vtgffxm,cpqaizhc99tbsqm6h2cgampio,1,47,46:46,2020-03-15T21:48:16Z,Penalty not awarded,Cancelled,Penalty,6eqxtayx7vsjujc8viicz987p
+2,35uxmvta1p7xfwsj4de7w16cq,7gkwmrw0cjz0m168ouw00z4gy,1,23,22:35,2020-02-02T21:42:21Z,Goal awarded,Cancelled,No goal,d3swiv7qjcdrnf2i6y5egz6qd
+3,35uxmvta1p7xfwsj4de7w16cq,7gkwmrw0cjz0m168ouw00z4gy,2,60,59:58,2020-02-02T22:36:39Z,Penalty awarded,Cancelled,No penalty,d3swiv7qjcdrnf2i6y5egz6qd
+4,35uxmvta1p7xfwsj4de7w16cq,7gkwmrw0cjz0m168ouw00z4gy,2,69,68:39,2020-02-02T22:46:54Z,Goal awarded,Confirmed,Goal,4s0cgwchahxqfowf7v1edb5cl
+5,2llzoi9rg31t76n45t85znlzo,bd1veyn5g4r8zbaquf8b8pksp,1,51,50:14,2020-11-18T14:22:45Z,Goal awarded,Confirmed,Goal,dy08mj43eioa2zt491zm965ii
+6,2llzoi9rg31t76n45t85znlzo,bd1veyn5g4r8zbaquf8b8pksp,2,66,65:23,2020-11-18T15:01:31Z,Goal awarded,Cancelled,No goal,87z83zs05oeexy65m84jhm5zp
+7,e483wx49hik12tglkjcj3z4ve,9dqkgu00tn42928lrrxlis95a,2,50,49:33,2020-09-26T20:12:08Z,Goal not awarded,Cancelled,Goal,3kgj8qv3krm0g4u8eidfdw0r9
+8,6yulwht5v41j7ks1pd8jgc296,4y5xl8r1nkg1n9hnjzo53v8xk,2,71,70:38,2020-02-17T01:29:51Z,Card upgrade,Confirmed,No change,aoob5p543hjjcc0bpljyqct7t
+9,6yulwht5v41j7ks1pd8jgc296,bd1veyn5g4r8zbaquf8b8pksp,2,87,86:03,2020-02-17T01:45:16Z,Penalty not awarded,Cancelled,Penalty,napvicstt332tuhec6iyx5n9
+10,9ojvxqa64pgu8jjuloey2ymwa,8puc16dm0ut6bvv6u6ivpe2ch,1,3,2:22,2020-02-23T23:01:55Z,Goal not awarded,Cancelled,Goal,adh3gj9e2avq8j3ib8kbfjw7p
+11,9ojvxqa64pgu8jjuloey2ymwa,59d4d2m78t2lqabd1m7o90std,2,87,86:53,2020-02-24T00:43:30Z,Goal awarded,Cancelled,No goal,1udhwk2qkh23pl0vykuj8m7rp
+12,18ygbx2z2q3pesbr1ljpxiru2,59d4d2m78t2lqabd1m7o90std,1,25,25:00,2020-01-25T23:56:07Z,Goal awarded,Confirmed,Goal,brkd7vi8zwf9oc1xhncco4mei
+13,e3vkr08m8zbsa20k90v2gmvsa,cpqaizhc99tbsqm6h2cgampio,1,37,36:19,2020-09-25T22:09:46Z,Penalty not awarded,Cancelled,Penalty,8ergr8nv2ljechtzrtcv6d0b9
+14,e3vkr08m8zbsa20k90v2gmvsa,cpqaizhc99tbsqm6h2cgampio,2,97,96:59,2020-09-25T23:31:06Z,Card upgrade,Cancelled,Card upgraded,2mv48xbwjnyqclrsgn2oedtjp
+15,9oemkgs5xvboxpfmt3b1ffjai,hfu6x1260h62zj7xl6cn95hx,2,76,75:21,2020-02-23T01:05:51Z,Goal awarded,Cancelled,No goal,b44ryatcd56jc71lloj2u3lcl
+16,6xh7e6om0s7btpyvxdqjn8iga,1zsb1ovzidi8rft1vzw4me71m,2,97,96:42,2020-02-10T22:55:04Z,Card upgrade,Cancelled,Card upgraded,bvi7qxhjj54wje1qm709065ed
+17,60mfls8gz3i03rm7ngwt2nsic,7gkwmrw0cjz0m168ouw00z4gy,1,29,28:39,2020-11-23T00:58:37Z,Goal not awarded,Cancelled,Goal,5hjsl94zct7s9kakzo0avb845
+18,8hlp7dbw7l4qoru8xyhrslhxw,hfu6x1260h62zj7xl6cn95hx,2,63,62:53,2020-10-30T15:26:54Z,Penalty not awarded,Cancelled,Penalty,3v7tgph1d8cgw4sj3vhq9x3hl
+19,6xz3yiwldqt1w7aqvq1xeicmi,1f72vqlndphmzn45x0nhdqk3e,2,97,96:16,2020-02-09T16:57:35Z,Goal not awarded,Cancelled,Goal,1pxq5s6wcmaf31abep37buz85
+20,9otzyoawtogytbhzdg1jyjlnu,4wb893al733feakm9teqqqnlg,2,50,49:14,2020-02-21T22:36:35Z,Goal awarded,Confirmed,Goal,c8kksze0li7ndudwsxusykamt
+21,bf2bjt3l2nkkesrykjnkd66ay,8puc16dm0ut6bvv6u6ivpe2ch,2,54,53:06,2020-10-11T20:15:00Z,Card upgrade,Cancelled,Card upgraded,2qul5ulggaduqfdn1facph0b9
+22,2lt3n7w69agx5dtse95x4q2ac,8rpjhpm2j1q7p40zfmlqpj8am,1,9,8:05,2020-11-17T13:38:12Z,Goal awarded,Cancelled,No goal,248uds9v4rrmkynvv2192hadx
+23,2lt3n7w69agx5dtse95x4q2ac,8rpjhpm2j1q7p40zfmlqpj8am,1,11,10:41,2020-11-17T13:40:48Z,Goal awarded,Cancelled,No goal,248uds9v4rrmkynvv2192hadx
+24,70sp712dzozu83zn19ndxgktm,4y5xl8r1nkg1n9hnjzo53v8xk,2,96,95:12,2020-09-03T16:58:51Z,Penalty not awarded,Cancelled,Penalty,a7twiics4lxbx3cmji98he2fp
+25,35obr9fepwmogw4nbakmxa2vo,1iy5a1mzucfenathcnlhmp95a,1,24,23:34,2020-11-14T21:55:49Z,Penalty not awarded,Cancelled,Penalty,8r4jakwqzzf2cqjd3btsayz8p
+26,71jxvrc1ooae2mjmljls44aju,bd1veyn5g4r8zbaquf8b8pksp,1,39,38:41,2020-09-09T17:10:47Z,Penalty not awarded,Confirmed,No penalty,d1aumpodch3p2vl02slq292w9
+27,71jxvrc1ooae2mjmljls44aju,bd1veyn5g4r8zbaquf8b8pksp,2,87,86:39,2020-09-09T18:16:49Z,Card upgrade,Cancelled,Card upgraded,7p1eebxgitfz4bhv988kbiqne
+28,6ycf7lvmrxbmwgdt933n6xw16,cpqaizhc99tbsqm6h2cgampio,2,81,80:18,2020-08-29T21:48:57Z,Penalty awarded,Confirmed,Penalty,6eqxtayx7vsjujc8viicz987p
+29,6ycf7lvmrxbmwgdt933n6xw16,bw2py3aiws1rq61pokete3kv2,2,92,91:36,2020-08-29T22:00:15Z,Penalty not awarded,Cancelled,Penalty,cahlp9pj7zp7gsqqm04hc4i51
+30,24t4j91j08jwqua5w8c8t69gq,4y5xl8r1nkg1n9hnjzo53v8xk,2,86,85:38,2020-10-15T15:45:02Z,Penalty not awarded,Cancelled,Penalty,7o1wgekbdpne9thpsdtr1kxqt
+31,8gg6o7zfkx7mz7vq1xn82m238,bd1veyn5g4r8zbaquf8b8pksp,1,30,29:01,2020-10-20T19:28:32Z,Penalty not awarded,Cancelled,Penalty,8o9og3flymylrmh0dluedx6mt
+32,18ofwh6krv57uot3vmtym6iqy,4y5xl8r1nkg1n9hnjzo53v8xk,2,74,73:38,2020-01-24T23:03:03Z,Card upgrade,Cancelled,Card upgraded,dnys3wogn819q2vxch5jwe3f9
+33,6yilqf9wqaytloo1ufvvems8a,cdj7tqbsake4a0ks5pwm23t23,1,20,19:35,2020-02-15T15:21:14Z,Card upgrade,Cancelled,Card upgraded,c5r3jkp8lz1hunxkygs8g123t
+34,6yilqf9wqaytloo1ufvvems8a,cdj7tqbsake4a0ks5pwm23t23,2,79,78:36,2020-02-15T16:38:35Z,Red card given,Confirmed,Red card,3y0xuj46ki2o96oq7jvv5fqhh
+35,6yilqf9wqaytloo1ufvvems8a,1zsb1ovzidi8rft1vzw4me71m,2,90,89:09,2020-02-15T16:49:08Z,Penalty not awarded,Confirmed,No penalty,1psp77of8z48io79kj56h0ez9
+36,bevmy56p5istuapyutredlrai,9dqkgu00tn42928lrrxlis95a,2,62,61:24,2020-10-10T20:21:49Z,Penalty not awarded,Cancelled,Penalty,5yjiqgdcnka7bm1i4dknxvq0a
+37,2lqt518z1rawccx8zc9dof5lg,9dqkgu00tn42928lrrxlis95a,2,74,73:20,2020-11-19T15:07:40Z,Card upgrade,Cancelled,Card upgraded,c43to04jy71aewg5f7qse9iol
+38,2lqt518z1rawccx8zc9dof5lg,9dqkgu00tn42928lrrxlis95a,2,88,87:04,2020-11-19T15:21:24Z,Card upgrade,Cancelled,Card upgraded,crbzje4uia8cbjfw0707ieitx
+39,e8ew00ocdykl8753d7aqzq0yy,4wb893al733feakm9teqqqnlg,1,50,49:23,2020-03-07T23:50:25Z,Penalty not awarded,Cancelled,Penalty,2knmaxmdj593azj6y8jf7c7o5
+40,e8ew00ocdykl8753d7aqzq0yy,8rpjhpm2j1q7p40zfmlqpj8am,2,53,52:39,2020-03-08T00:18:36Z,Card upgrade,Cancelled,Card upgraded,c3jg0t5sdw0x60ur19s5s899l
+41,9pcxu7kk2foxef6vi5x4vmr8q,9dqkgu00tn42928lrrxlis95a,1,43,42:46,2020-03-01T00:14:20Z,Penalty not awarded,Cancelled,Penalty,351nzn9u8g8ju7qnl2cy4codm
+42,9pcxu7kk2foxef6vi5x4vmr8q,9dqkgu00tn42928lrrxlis95a,2,84,83:24,2020-03-01T01:13:27Z,Red card given,Cancelled,No red card,dhy4u5ea6vtob2g2ugvzrn93p
+43,24j1k31dhx7s0xvm9n7r5dysq,bd1veyn5g4r8zbaquf8b8pksp,1,24,23:58,2020-10-16T00:25:07Z,Penalty not awarded,Cancelled,Penalty,ch24btk29fxkdm14rzea7igdm
+44,24j1k31dhx7s0xvm9n7r5dysq,bd1veyn5g4r8zbaquf8b8pksp,1,38,37:39,2020-10-16T00:38:49Z,Penalty not awarded,Cancelled,Penalty,ch24btk29fxkdm14rzea7igdm
+45,24j1k31dhx7s0xvm9n7r5dysq,7gkwmrw0cjz0m168ouw00z4gy,2,53,52:27,2020-11-11T19:03:19Z,Other,Cancelled,-,3k8wr5chjtaakdyyftcqpak0l
+46,24j1k31dhx7s0xvm9n7r5dysq,7gkwmrw0cjz0m168ouw00z4gy,2,54,53:56,2020-11-11T19:04:48Z,Other,Cancelled,-,7qinj1hp24xlzrp40lji1r3rp
+47,24j1k31dhx7s0xvm9n7r5dysq,bd1veyn5g4r8zbaquf8b8pksp,2,89,88:27,2020-11-11T19:39:19Z,Penalty awarded,Confirmed,Penalty,dy08mj43eioa2zt491zm965ii
+48,24j1k31dhx7s0xvm9n7r5dysq,7gkwmrw0cjz0m168ouw00z4gy,2,91,90:16,2020-11-11T19:41:08Z,Red card given,Cancelled,No red card,eqdo9vp6b1wkfvfz4zfj6iml1
+49,bdzbmw68serf08gtxy2ua68h6,eizgmllil1zrzpk6zbue0hl7m,2,66,65:12,2020-10-03T17:56:38Z,Goal awarded,Cancelled,No goal,888s3939roy7s3aq01ehh5vpx
+50,353ut94dtlsaju9om9mhat65m,hfu6x1260h62zj7xl6cn95hx,1,42,41:47,2020-02-01T00:44:59Z,Penalty not awarded,Cancelled,Penalty,cqukkxc9c4iowy3tydreue7rp
+51,9nuvceah6ha40t1h0d4hnm2qy,eizgmllil1zrzpk6zbue0hl7m,1,15,14:22,2020-02-22T15:16:07Z,Goal awarded,Cancelled,No goal,3xfqyb7n91x9qpsvjyj1ih785
+52,e3ew48s2n2ww8nudmdml1rwiy,cpqaizhc99tbsqm6h2cgampio,2,75,74:36,2020-09-13T15:35:58Z,Penalty not awarded,Cancelled,Penalty,d1pyzg0b7m97u6ng10ka998lx
+53,e3ew48s2n2ww8nudmdml1rwiy,1zsb1ovzidi8rft1vzw4me71m,2,93,92:53,2020-09-13T15:54:15Z,Card upgrade,Cancelled,Card upgraded,3aof100fuf3dycejkrnnm300l
+54,357wqv3701a2eyxu8may6xk6i,1zsb1ovzidi8rft1vzw4me71m,1,12,11:04,2020-02-01T15:15:17Z,Card upgrade,Confirmed,No change,2f5shtl4n0z0thj4h1sz13zrp
+55,35pyyyy6avswfe0hr2d22584q,ehsvy9m92bp6ktgoy6pwv8rdm,1,16,15:36,2020-02-02T15:17:02Z,Penalty not awarded,Cancelled,Penalty,2ir7ctowdenj07bq50l20wq8l
+56,24691gfjwxnynsdgm0ajk5w8a,2nxp7ufclxwbtaozvx5zj1zym,1,19,18:57,2020-10-03T14:19:55Z,Penalty awarded,Cancelled,No penalty,didi62zdit4vtyfye0qxw7105
+57,e8ikyn9qvtwprhmq4w8mcohgq,cpqaizhc99tbsqm6h2cgampio,2,60,59:03,2020-03-11T01:08:37Z,Goal awarded,Cancelled,No goal,748h26tk6u48g3iwpcwjsbe8l
+58,8gj2g3tf58vnofhpijtdg5d78,eizgmllil1zrzpk6zbue0hl7m,1,8,7:20,2020-10-21T21:37:58Z,Card upgrade,Cancelled,Card upgraded,3xfqyb7n91x9qpsvjyj1ih785
+59,6193r3nx4zpflk0k493zetnh0,4wb893al733feakm9teqqqnlg,1,29,28:21,2020-12-04T20:27:55Z,Penalty awarded,Confirmed,Penalty,4amvjmzixl30pg91ep6b9xhx
+60,35dbqror24rncs5jsmsrw19ii,8puc16dm0ut6bvv6u6ivpe2ch,1,8,7:09,2020-02-01T20:38:09Z,Card upgrade,Cancelled,Card upgraded,em2957qngzi3thmrksunwe9qt
+61,9q2kjf87buyy2jcqhpm1e23xm,cpqaizhc99tbsqm6h2cgampio,1,24,23:44,2020-03-02T23:53:58Z,Penalty not awarded,Confirmed,No penalty,dfszhlsfxw23vqsihkwimmxgp
+62,9q2kjf87buyy2jcqhpm1e23xm,cpqaizhc99tbsqm6h2cgampio,2,95,94:19,2020-03-03T01:22:48Z,Penalty not awarded,Cancelled,Penalty,748h26tk6u48g3iwpcwjsbe8l
+63,60xsjzadmkabw8h8cn1cd2y38,cpqaizhc99tbsqm6h2cgampio,1,35,34:08,2020-12-05T20:35:26Z,Card upgrade,Cancelled,Card upgraded,2mv48xbwjnyqclrsgn2oedtjp
+64,e9kndb1sooxtzw0qm0s2cl27e,1f72vqlndphmzn45x0nhdqk3e,1,22,21:34,2020-08-30T14:54:07Z,Goal awarded,Cancelled,No goal,21yxomlpwzh54k7tivw3j457u
+65,e4i6zutpz5eyuxgoa9tyegqy2,eizgmllil1zrzpk6zbue0hl7m,2,90,89:49,2020-09-24T20:48:15Z,Penalty awarded,Cancelled,No penalty,3893inqanep5u2ivre7qo33kl
+66,6yruifsfsg9l59g2gorbdt0tm,7gkwmrw0cjz0m168ouw00z4gy,1,45,44:28,2020-02-16T21:44:42Z,Penalty not awarded,Confirmed,No penalty,d3swiv7qjcdrnf2i6y5egz6qd
+67,71ria8e7shav0bri3ud4r3td6,1zsb1ovzidi8rft1vzw4me71m,1,42,41:24,2020-09-08T22:10:08Z,Card upgrade,Cancelled,Card upgraded,9ynfb3x8vdydd82128cppk8gl
+68,71ria8e7shav0bri3ud4r3td6,1iy5a1mzucfenathcnlhmp95a,2,80,79:34,2020-09-08T23:09:54Z,Goal awarded,Cancelled,No goal,2ztfs9tfd4ztq5fleycxf11t6
+69,191g99vlhfed82gq6lput4mzu,7gkwmrw0cjz0m168ouw00z4gy,1,12,11:19,2020-01-26T15:11:32Z,Red card given,Cancelled,No red card,5hjsl94zct7s9kakzo0avb845
+70,191g99vlhfed82gq6lput4mzu,7gkwmrw0cjz0m168ouw00z4gy,1,34,33:25,2020-01-26T15:33:38Z,Penalty not awarded,Cancelled,Penalty,3k8wr5chjtaakdyyftcqpak0l
+71,191g99vlhfed82gq6lput4mzu,7gkwmrw0cjz0m168ouw00z4gy,1,52,52:00,2020-01-26T15:52:12Z,Penalty not awarded,Confirmed,No penalty,4s0cgwchahxqfowf7v1edb5cl
+72,6xmgw01uptguhezw7cseso7ze,2nxp7ufclxwbtaozvx5zj1zym,2,95,94:03,2020-02-08T01:49:55Z,Goal awarded,Cancelled,No goal,83pehcs280uby1806wow0dwb9
+73,8hi0aoalf2dotlgz0ir3hfevo,eizgmllil1zrzpk6zbue0hl7m,2,59,58:06,2020-10-29T17:50:15Z,Card upgrade,Cancelled,Card upgraded,3xfqyb7n91x9qpsvjyj1ih785
+74,713kacspm6bok296s673dg7e2,8puc16dm0ut6bvv6u6ivpe2ch,1,41,40:13,2020-09-03T18:13:09Z,Penalty awarded,Cancelled,No penalty,em2957qngzi3thmrksunwe9qt
+75,713kacspm6bok296s673dg7e2,9dqkgu00tn42928lrrxlis95a,1,41,40:44,2020-09-03T18:13:40Z,Card upgrade,Cancelled,Card upgraded,1g6yxzrygguwxhf7r4d8zor56
+76,e80gzl00z62u0g1cxlfftvnmy,bw2py3aiws1rq61pokete3kv2,2,67,66:53,2020-03-09T22:57:53Z,Penalty not awarded,Confirmed,No penalty,c832vblhgabxypcw32zgzgs0l
+77,e80gzl00z62u0g1cxlfftvnmy,bw2py3aiws1rq61pokete3kv2,2,85,84:22,2020-03-09T23:15:23Z,Penalty not awarded,Cancelled,Penalty,6aiecfxg2e102e6vg8vfaf8x5
+78,24zgio444f28v15f308tgu3qi,ehsvy9m92bp6ktgoy6pwv8rdm,2,50,49:11,2020-10-14T22:40:58Z,Penalty not awarded,Confirmed,No penalty,3loc50uo96004zxczuihbzrh1
+79,be7bomktaffjsfnx8wxhaocbu,9dqkgu00tn42928lrrxlis95a,1,7,6:03,2020-10-03T19:07:47Z,Penalty not awarded,Cancelled,Penalty,287fodtg3sbi6enk4lp5gkt79
+80,8he9208occ04jkv0mtnu56mtw,8puc16dm0ut6bvv6u6ivpe2ch,1,11,11:00,2020-11-08T19:11:48Z,Penalty not awarded,Cancelled,Penalty,2qul5ulggaduqfdn1facph0b9
+81,8he9208occ04jkv0mtnu56mtw,7gkwmrw0cjz0m168ouw00z4gy,1,42,41:01,2020-11-08T19:41:49Z,Penalty not awarded,Cancelled,Penalty,7swl6vdfvr4somv33kiobm51
+82,6129l2l3lp5g2ibgvssvmmxp0,hfu6x1260h62zj7xl6cn95hx,1,20,19:13,2020-12-06T22:51:17Z,Penalty awarded,Confirmed,Penalty,bn04vhl78qfknkl5fk84rkuz9
+83,6129l2l3lp5g2ibgvssvmmxp0,9dqkgu00tn42928lrrxlis95a,2,50,49:40,2020-12-06T23:43:47Z,Goal not awarded,Cancelled,Goal,3kgj8qv3krm0g4u8eidfdw0r9
+84,360n23cxpuafl0830v2vyhs0k,1zsb1ovzidi8rft1vzw4me71m,2,85,84:43,2020-11-15T23:22:14Z,Penalty awarded,Cancelled,No penalty,bvi7qxhjj54wje1qm709065ed
+85,71dbke1yzqhkhru9gqno46nvu,1f72vqlndphmzn45x0nhdqk3e,2,74,73:04,2020-09-06T15:34:28Z,Card upgrade,Cancelled,Card upgraded,6rrdxeucdgwlw1p7mr0gl64q2
+86,ber86pow1qdsaofbk7zf7udey,8rpjhpm2j1q7p40zfmlqpj8am,1,40,39:02,2020-10-02T19:38:23Z,Card upgrade,Cancelled,Card upgraded,7f1z0zw8ecsk04glhsdxl6ndh
+87,bentjeoraqf0doi7k16xldhey,7gkwmrw0cjz0m168ouw00z4gy,1,45,44:38,2020-10-04T17:44:18Z,Penalty not awarded,Cancelled,Penalty,d3swiv7qjcdrnf2i6y5egz6qd
+88,9oye8nfasqzjn0rhbkb0lm0ru,4y5xl8r1nkg1n9hnjzo53v8xk,1,19,18:26,2020-02-21T15:18:34Z,Penalty not awarded,Cancelled,Penalty,aoob5p543hjjcc0bpljyqct7t
+89,9pz6fw8k6dahow8rddtrro7e2,cdj7tqbsake4a0ks5pwm23t23,2,64,63:21,2020-03-01T22:20:16Z,Goal not awarded,Cancelled,Goal,m1lbmlled2xtj2ilk4oiyrc9
+90,9pz6fw8k6dahow8rddtrro7e2,8rpjhpm2j1q7p40zfmlqpj8am,2,81,80:39,2020-03-01T22:37:34Z,Card upgrade,Cancelled,Card upgraded,5in8ya35qsmdsmw09oianuh2h
+91,9pz6fw8k6dahow8rddtrro7e2,cdj7tqbsake4a0ks5pwm23t23,2,95,94:59,2020-03-01T22:51:54Z,Goal awarded,Cancelled,No goal,5suxy8zywnnbalcujii6srdre
+92,24m4r720dnd7dxo9r7ep138fe,8rpjhpm2j1q7p40zfmlqpj8am,1,29,28:45,2020-10-15T21:57:58Z,Penalty not awarded,Cancelled,Penalty,ea0e11ky6morei5ajpeamfwmh
+93,9q5w4ab1jy7mwga65wmmnrl2i,hfu6x1260h62zj7xl6cn95hx,2,70,69:33,2020-02-28T23:00:19Z,Goal awarded,Cancelled,No goal,82ffef6lzygelxn9swn5pqzca
+94,9p2f4vghjym3sljohurvpjdyi,2nxp7ufclxwbtaozvx5zj1zym,2,81,80:40,2020-02-23T16:40:51Z,Goal awarded,Confirmed,Goal,7i7ndyzz4xyarc47kcz2wpped
+95,8hpebl4rdv4a4hs8k6raj0bo4,59d4d2m78t2lqabd1m7o90std,1,38,37:13,2020-10-31T22:08:29Z,Goal not awarded,Cancelled,Goal,abb1eu1hpcrox97w3z01nxrkl
+96,8hpebl4rdv4a4hs8k6raj0bo4,59d4d2m78t2lqabd1m7o90std,2,81,80:10,2020-10-31T23:08:34Z,Penalty not awarded,Cancelled,Penalty,757f9x11lzcug3d6sn39d85wp
+97,8hpebl4rdv4a4hs8k6raj0bo4,59d4d2m78t2lqabd1m7o90std,2,90,89:53,2020-10-31T23:18:17Z,Goal awarded,Cancelled,No goal,1udhwk2qkh23pl0vykuj8m7rp
+98,194ksppj2qlhefg3bw621r3ai,cdj7tqbsake4a0ks5pwm23t23,2,73,72:30,2020-01-26T22:32:01Z,Penalty not awarded,Cancelled,Penalty,r2qjdlnjtjagkm5m1v1ulck5
+99,e8bsx8f1zwmlk9q67akszuq22,2nxp7ufclxwbtaozvx5zj1zym,1,31,30:47,2020-03-07T15:31:17Z,Penalty not awarded,Confirmed,No penalty,47cw7z4p92y3ioalree2uvf85
+100,e8bsx8f1zwmlk9q67akszuq22,2nxp7ufclxwbtaozvx5zj1zym,1,47,46:08,2020-03-07T15:46:37Z,Goal awarded,Cancelled,No goal,u17bw7ovt1wyrdyf18k2mkt1
+101,723gg3nwo0crqukff3img3kh6,8puc16dm0ut6bvv6u6ivpe2ch,2,93,92:09,2020-09-09T23:21:04Z,Goal awarded,Cancelled,No goal,2qul5ulggaduqfdn1facph0b9
+102,35q6ydmmyek2pccgcf5iib1g4,bd1veyn5g4r8zbaquf8b8pksp,1,41,40:53,2020-11-14T19:41:56Z,Penalty not awarded,Cancelled,Penalty,9hop4kpyrrkombigyebfbiifp
+103,35q6ydmmyek2pccgcf5iib1g4,4wb893al733feakm9teqqqnlg,2,49,48:41,2020-11-14T20:08:48Z,Goal awarded,Cancelled,No goal,gr9yavamkh4wlc9tk0x4355h
+104,35q6ydmmyek2pccgcf5iib1g4,bd1veyn5g4r8zbaquf8b8pksp,2,88,87:09,2020-11-14T20:47:16Z,Card upgrade,Cancelled,Card upgraded,62wv8ih6784cp0xhng2yv6b4l
+105,e84v6l832ohamgmxob40jly0a,1zsb1ovzidi8rft1vzw4me71m,1,46,45:33,2020-03-10T21:46:30Z,Goal awarded,Cancelled,No goal,e9ku3q311eg5t8lrxfcof65m1
+106,e84v6l832ohamgmxob40jly0a,1zsb1ovzidi8rft1vzw4me71m,2,75,74:29,2020-03-10T22:33:19Z,Penalty not awarded,Cancelled,Penalty,1psp77of8z48io79kj56h0ez9
+107,e84v6l832ohamgmxob40jly0a,8puc16dm0ut6bvv6u6ivpe2ch,2,91,90:51,2020-03-10T22:49:39Z,Penalty not awarded,Cancelled,Penalty,3zc7nns0gt6n8hlp7uny7ax1x
+108,bfewg7qtu12klcloxrthvudey,7gkwmrw0cjz0m168ouw00z4gy,2,49,48:02,2020-10-10T22:37:02Z,Penalty awarded,Cancelled,No penalty,edrl7m5r17vghnnbull4qlnmd
+109,bebrv95o10rckgmkngfszrnfu,4wb893al733feakm9teqqqnlg,2,67,66:56,2020-10-02T15:23:17Z,Penalty awarded,Cancelled,No penalty,c1w8b6hy98azzdz48pw8uago9
+110,e3660rpp9nsy7y59d3vh26nhm,cdj7tqbsake4a0ks5pwm23t23,1,26,25:43,2020-09-14T19:26:31Z,Goal awarded,Confirmed,Goal,epfwjk84jo741igp7fxe4c2qd
+111,6y7vsn2lg19h8cvs8l418snl6,9dqkgu00tn42928lrrxlis95a,2,93,92:58,2020-02-11T01:21:57Z,Card upgrade,Cancelled,Card upgraded,crbzje4uia8cbjfw0707ieitx
+112,e3p3x1v6vj07zxwpx1y165bai,ehsvy9m92bp6ktgoy6pwv8rdm,2,95,94:22,2020-09-12T23:21:33Z,Penalty not awarded,Cancelled,Penalty,atheibripyjr0rr4zn3klkzbp
+113,2lvm99hhqya6wc6tgycttypec,4y5xl8r1nkg1n9hnjzo53v8xk,2,74,73:21,2020-12-08T15:04:49Z,Red card given,Cancelled,No red card,51mu62nt2yufzzi9qt45e3cnp
+114,6xpky81m8uvumwk2hkbqosa5m,4y5xl8r1nkg1n9hnjzo53v8xk,2,76,75:32,2020-02-08T16:35:48Z,Goal awarded,Cancelled,No goal,hj91p5o7cbehtivvgeoswct1
+115,6xpky81m8uvumwk2hkbqosa5m,cpqaizhc99tbsqm6h2cgampio,2,90,89:03,2020-02-08T16:49:19Z,Card upgrade,-,-,6ovbzzxyqz4b17scxmkisnvth
+116,6ym9dsw0dj09hkaogeek8lkdm,8puc16dm0ut6bvv6u6ivpe2ch,2,58,57:18,2020-02-15T21:48:28Z,Card upgrade,Cancelled,Card upgraded,62czo0yddio2lacx8v4dqldcl
+117,616vsh5ee017gsvcmksmhfsb8,eizgmllil1zrzpk6zbue0hl7m,1,28,27:58,2020-12-04T14:01:02Z,Penalty not awarded,Confirmed,No penalty,3gl531k6v6qumpxb5tp17nxlh
+118,9p84t2hzs0vxene7gnpe8imi2,4wb893al733feakm9teqqqnlg,2,81,80:31,2020-02-29T16:37:55Z,Card upgrade,Cancelled,Card upgraded,gr9yavamkh4wlc9tk0x4355h
+119,3666dznk2dr3vdmzw5rnfhiei,2nxp7ufclxwbtaozvx5zj1zym,2,68,67:29,2020-02-03T23:58:28Z,Goal awarded,Cancelled,No goal,u17bw7ovt1wyrdyf18k2mkt1
+120,9pg2evs77obh70jmd5wa7lsh6,59d4d2m78t2lqabd1m7o90std,1,9,8:25,2020-03-03T21:09:42Z,Penalty not awarded,Cancelled,Penalty,1udhwk2qkh23pl0vykuj8m7rp
+121,9pg2evs77obh70jmd5wa7lsh6,59d4d2m78t2lqabd1m7o90std,2,65,64:25,2020-03-03T22:25:11Z,Card upgrade,Confirmed,No change,1ai6aiqnprhl5yrr8xfdswxnu
+122,362qf7qwwf5o21gwe3hlw7k7o,2nxp7ufclxwbtaozvx5zj1zym,2,76,75:32,2020-11-15T20:35:04Z,Goal awarded,Cancelled,No goal,didi62zdit4vtyfye0qxw7105
+123,e97sbhywcohl2jbzelfi3xnxm,59d4d2m78t2lqabd1m7o90std,1,47,46:27,2020-03-16T00:17:00Z,Card upgrade,Cancelled,Card upgraded,757f9x11lzcug3d6sn39d85wp
+124,e3ivkmgycpwfrl2n0p9x6f8fe,bd1veyn5g4r8zbaquf8b8pksp,2,48,47:22,2020-09-15T20:02:58Z,Card upgrade,Confirmed,No change,3yugvnpaflo89btdo3yw5eklx
+125,bfc2u5g9u73b92gdojhvmqs16,bd1veyn5g4r8zbaquf8b8pksp,1,4,3:16,2020-10-09T18:33:35Z,Penalty not awarded,Cancelled,Penalty,7p1eebxgitfz4bhv988kbiqne
+126,e942lemd4mqsxtbxiv50i4h9m,hfu6x1260h62zj7xl6cn95hx,2,50,49:25,2020-08-30T23:39:54Z,Penalty not awarded,Cancelled,Penalty,9t9zkfm9ko2ezs4ch46a0wgr9
+127,61dcbsb7t5bqieovumx25xes4,bd1veyn5g4r8zbaquf8b8pksp,2,68,67:34,2020-12-03T14:57:00Z,Goal not awarded,Cancelled,Goal,5ubpbn6j49ob3rmfq4ac356tx
+128,bekwil36ammqt8qb5dymm4l7u,hfu6x1260h62zj7xl6cn95hx,2,62,61:46,2020-10-04T20:51:25Z,Penalty not awarded,Cancelled,Penalty,9t9zkfm9ko2ezs4ch46a0wgr9
+129,bekwil36ammqt8qb5dymm4l7u,hfu6x1260h62zj7xl6cn95hx,2,85,84:09,2020-10-04T21:13:47Z,Goal awarded,Confirmed,Goal,3v7tgph1d8cgw4sj3vhq9x3hl
+130,61beqwnm85nrm12tf1cl7ciz8,8puc16dm0ut6bvv6u6ivpe2ch,1,14,13:42,2020-12-02T13:45:30Z,Penalty not awarded,Cancelled,Penalty,drtoqm93lulssafz5z6rpavv9
+131,61beqwnm85nrm12tf1cl7ciz8,8puc16dm0ut6bvv6u6ivpe2ch,2,74,73:09,2020-12-02T15:03:32Z,Goal awarded,Cancelled,No goal,di32qsc0rhuulwdzicqv4tck5
+132,719x49v94nzl698q2kqx9wiga,1zsb1ovzidi8rft1vzw4me71m,1,41,40:15,2020-09-05T23:10:38Z,Card upgrade,Cancelled,Card upgraded,e9ku3q311eg5t8lrxfcof65m1
+133,bfl2rbjqjw6l600unlzyqjo16,ehsvy9m92bp6ktgoy6pwv8rdm,1,34,33:34,2020-10-09T21:32:48Z,Card upgrade,Confirmed,No change,abzf358c7vw4vhw5ad819t9zp
+134,bfl2rbjqjw6l600unlzyqjo16,bw2py3aiws1rq61pokete3kv2,1,45,44:37,2020-10-09T21:43:51Z,Penalty not awarded,Cancelled,Penalty,b3gzwpdhc43oz9u4ihkqgug2d
+135,2m2tkp88wqo6lxp39cw9wgowk,9dqkgu00tn42928lrrxlis95a,1,15,14:12,2020-12-11T00:43:49Z,Penalty not awarded,Cancelled,Penalty,gy2us7bvt80iil2vmzdmxrrp
+136,2m2tkp88wqo6lxp39cw9wgowk,9dqkgu00tn42928lrrxlis95a,1,41,40:45,2020-12-11T01:10:22Z,Card upgrade,Confirmed,No change,cjmai4tgydff5g6ykyrclt8et
+137,2m2tkp88wqo6lxp39cw9wgowk,bd1veyn5g4r8zbaquf8b8pksp,2,78,77:19,2020-12-11T02:06:18Z,Card upgrade,Cancelled,Card upgraded,7p1eebxgitfz4bhv988kbiqne
+138,71ghet1v7h8riqtzbcjd1afl6,eizgmllil1zrzpk6zbue0hl7m,1,19,18:39,2020-09-04T15:22:17Z,Goal not awarded,Cancelled,Goal,8jiug6aq1plhdoc07u3fem6l1
+139,2lh9d2t2bxocxldsaf3ns3i1g,cpqaizhc99tbsqm6h2cgampio,1,42,41:52,2020-11-19T19:56:05Z,Goal awarded,Cancelled,No goal,748h26tk6u48g3iwpcwjsbe8l
+140,9pqn0xp8a8ubg1twm305ibnmy,ehsvy9m92bp6ktgoy6pwv8rdm,1,24,23:02,2020-02-29T21:23:33Z,Penalty not awarded,Cancelled,Penalty,emxgknli5uxn1xhkmxdixyh91
+141,9pqn0xp8a8ubg1twm305ibnmy,ehsvy9m92bp6ktgoy6pwv8rdm,2,67,66:11,2020-02-29T22:28:00Z,Card upgrade,Confirmed,No change,abzf358c7vw4vhw5ad819t9zp
+142,18sc8umawu7jp8f65hjcnnuqy,8rpjhpm2j1q7p40zfmlqpj8am,2,50,50:00,2020-01-25T01:09:03Z,Penalty not awarded,Cancelled,Penalty,95pzzekgfm9589ip2fomr3lxx
+143,18sc8umawu7jp8f65hjcnnuqy,8rpjhpm2j1q7p40zfmlqpj8am,2,66,65:49,2020-01-25T01:24:52Z,Card upgrade,-,-,7f1z0zw8ecsk04glhsdxl6ndh
+144,18sc8umawu7jp8f65hjcnnuqy,8rpjhpm2j1q7p40zfmlqpj8am,2,90,89:22,2020-01-25T01:48:25Z,Mistaken identity,Cancelled,Ref cautions/sends off a different player,95pzzekgfm9589ip2fomr3lxx
+145,72cjc9ptw5tb538qjy0fmylbe,7gkwmrw0cjz0m168ouw00z4gy,1,38,37:40,2020-09-09T14:37:57Z,Goal not awarded,Cancelled,Goal,3k8wr5chjtaakdyyftcqpak0l
+146,e9etk1zchj8zhlgnbaefvcrqi,4wb893al733feakm9teqqqnlg,2,52,51:50,2020-03-15T16:10:49Z,Penalty not awarded,Cancelled,Penalty,34x6eabrx5t9one9q6ifwtyp5
+147,8hx5l7hccjkosotqxz7tfan10,ehsvy9m92bp6ktgoy6pwv8rdm,2,70,69:07,2020-10-31T15:31:27Z,Penalty awarded,Cancelled,No penalty,y9v0u6zwopgjkp64nili8rth
+148,35l51noj0croxackk6i4d1zbo,1f72vqlndphmzn45x0nhdqk3e,1,17,16:27,2020-11-15T14:18:00Z,Card upgrade,Cancelled,Card upgraded,3u8o54ozv8frmg0dct2uqnt1x
+149,35l51noj0croxackk6i4d1zbo,4y5xl8r1nkg1n9hnjzo53v8xk,1,47,46:17,2020-11-15T14:47:50Z,Penalty not awarded,Cancelled,Penalty,5io2106rxpshzsc39qigm1nth
+150,37vm91kjjjdhjsohmnxjuj9t6,bd1veyn5g4r8zbaquf8b8pksp,1,6,5:03,2020-01-28T21:06:20Z,Penalty awarded,Cancelled,No penalty,egdpq1pva7hl7w0yfnwj469cl
+151,37vm91kjjjdhjsohmnxjuj9t6,bd1veyn5g4r8zbaquf8b8pksp,2,77,76:43,2020-01-28T22:39:58Z,Card upgrade,Cancelled,Card upgraded,8o9og3flymylrmh0dluedx6mt
+152,24w5grlqt6w262h5xf9dnoj8q,cdj7tqbsake4a0ks5pwm23t23,2,90,89:40,2020-10-15T20:51:20Z,Card upgrade,Cancelled,Card upgraded,8ez1fcn0k8b9m3hpac7mzbqad
+153,18v4yo6lnrquffm7nk3fjxgtm,1f72vqlndphmzn45x0nhdqk3e,2,50,49:53,2020-01-25T16:11:37Z,Penalty not awarded,Cancelled,Penalty,auoha2xfik4deh4dphlrlvm22
+154,18v4yo6lnrquffm7nk3fjxgtm,bw2py3aiws1rq61pokete3kv2,2,70,69:37,2020-01-25T16:31:21Z,Goal awarded,Cancelled,No goal,b3gzwpdhc43oz9u4ihkqgug2d
+155,bfibgdc0gwe27rs4cjlh0lxt6,2nxp7ufclxwbtaozvx5zj1zym,2,82,81:54,2020-10-11T23:13:53Z,Penalty not awarded,Cancelled,Penalty,9vdeig9blhvbzulb4u4kl6qui
+156,60aloysx2iauzhnfx11bkp1xw,2nxp7ufclxwbtaozvx5zj1zym,2,88,87:29,2020-11-22T15:17:55Z,Penalty awarded,Cancelled,No penalty,47cw7z4p92y3ioalree2uvf85
